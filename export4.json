@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "name": "export",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "So_thua": 1.0,
+        "Loai_ruong": "LÃºa",
+        "Chu_vi": 191.07911604500001,
+        "Dien_tich": 2231.43907984,
+        "Lam_dat": null,
+        "Cay": null,
+        "Phun_thuoc": null,
+        "Bon_phan": null,
+		"ECO_NAME": "Admiralty Islands lowland rain forests",
+        "BIOME_NAME": "Tropical & Subtropical Moist Broadleaf Forests",
+        "REALM": "Australasia",
+        "NNH": 2,
+        "NNH_NAME": "Nature Could Reach Half Protected",
+        "COLOR": "#70A800",
+        "COLOR_BIO": "#38A700",
+        "COLOR_NNH": "#7BC141"
+      },
+	  "id": 12,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [105.684670406627134, 20.856384324803315],
+            [105.684738971353823, 20.856135940813296],
+            [105.684509357655799, 20.856056173652505],
+            [105.684376955070604, 20.85600447885259],
+            [105.68420101282436, 20.856442401052249],
+            [105.684290646356672, 20.856474027825485],
+            [105.684555898651325, 20.856569825977296],
+            [105.684617819542808, 20.856594967604931],
+            [105.684670406627134, 20.856384324803315]
+          ]
+        ]
+      }
+    }
+  ]
+}
