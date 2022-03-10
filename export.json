@@ -12,7 +12,16 @@
         "Lam_dat": null,
         "Cay": null,
         "Phun_thuoc": null,
-        "Bon_phan": null
+        "Bon_phan": null,
+		"ECO_NAME": "New England-Acadian forests",
+		"ECO_NAME": "New England-Acadian forests",
+        "BIOME_NAME": "Temperate Broadleaf & Mixed Forests",
+        "REALM": "Nearctic",
+        "NNH": 4,
+        "NNH_NAME": "Nature Imperiled",
+        "COLOR": "#5DA655",
+        "COLOR_BIO": "#00734C",
+        "COLOR_NNH": "#EE1E23"
       },
       "geometry": {
         "type": "Polygon",
